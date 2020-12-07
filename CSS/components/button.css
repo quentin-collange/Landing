@@ -1,0 +1,13 @@
+.btn-blue {
+	background-color: #D2572F;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 8px;
+	text-align: center;
+	font-weight: bold;
+	font-family:'Raleway', sans-serif;
+	display: block;
+	margin: auto;
+	width:215px;
+
+}
